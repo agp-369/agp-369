@@ -21,11 +21,11 @@ BCA graduate (2026), MCA student (IGNOU, distance). I work hands-on with compute
 - 📄 **Peer-reviewed research:** co-author, *Real-Time Transaction Fraud Detection Using Adaptive Hoeffding Trees* (IJCMA, 2025) — framed as security-anomaly thinking, not ML career.
 - 🎯 **Open to:** SOC L1 / Junior Security Analyst / Security Analyst Trainee / IT Security Support (BFSI, GCC, product SOCs).
 
-## Proof pillars (pinned repos)
+## Proof pillars
 
 | Pillar | Question | Best proof |
 |---|---|---|
-| **OPERATE** | Can you run infra? | `CyberOS` · `My-Portfolio-page` · 10+ distros · hardware repair story |
+| **OPERATE** | Can you run infra? | [CyberOS (live)](https://abhishekgupta.qzz.io) · [one-pager (live)](https://abhishekguptaportfolio6.netlify.app) · 10+ distros · hardware repair story |
 | **MEASURE** | Do you know it works? | `signoz-weatherwatch-bot` (OpenTelemetry + Redis + Docker, full traces) |
 | **SECURE** | Do you think in failure? | `infra-security-agent-workflow` (Meta OpenEnv RL SOC sandbox) · `pitguard-ai` (telemetry anomaly detection) · `security-labs` (building) |
 
@@ -34,7 +34,8 @@ BCA graduate (2026), MCA student (IGNOU, distance). I work hands-on with compute
 - 🛡️ **[security-labs](https://github.com/agp-369/security-labs)** — OWASP Juice Shop + DVWA writeups (find → explain → fix), CIS hardening on 10+ distros, PortSwigger/TryHackMe lab log. *(building)*
 - 📊 **[signoz-weatherwatch-bot](https://github.com/agp-369/signoz-weatherwatch-bot)** — Telegram weather bot with full SigNoz observability: OpenTelemetry traces, custom metrics, Redis cache, circuit breaker, Docker.
 - 🤖 **[infra-security-agent-workflow](https://github.com/agp-369/infra-security-agent-workflow)** — RL environment for training autonomous SOC analysts (Meta OpenEnv Hackathon, Round 1 submitted). Prototype — honest status.
-- 🖥️ **[CyberOS](https://github.com/agp-369/CyberOS)** — my portfolio *is* an operating system. Next.js 16 + React 19 + Tailwind v4 + Three.js. Boot → login → desktop.
+- 🧪 **[llm-security-labs](https://github.com/agp-369/llm-security-labs)** — OWASP LLM Top 10 hands-on: prompt injection, RAG poisoning, data leakage, guardrails. *(building)*
+- 🖥️ **[CyberOS — live](https://abhishekgupta.qzz.io)** — my portfolio *is* an operating system. Next.js 16 + React 19 + Tailwind v4 + Three.js. Boot → login → desktop. *Source is private by choice; the live build is public.*
 - 🔎 **[pitguard-ai](https://github.com/agp-369/pitguard-ai)** — F1 telemetry anomaly detection (sensor spoofing, CAN-bus injection) with IBM Granite. Anomaly-detection framing, not hype.
 - 🏥 **[Rakshak-AI](https://github.com/agp-369/Rakshak-AI)** — offline, on-device medical triage (Gemma 4, Flutter). No patient data leaves the phone — AI meets privacy.
 
