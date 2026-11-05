@@ -1,85 +1,78 @@
-﻿# agp-369
-
-<div align="center">
-  
-  ![Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+BCA+Graduate+%7C+MCA+Student;SQL+%7C+Python+%7C+Linux+%7C+Docker;Turning+Data+into+Actionable+Insights)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishekgupta-agp/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/agp-369)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=flat-square&logo=githubpages)](https://agp-369.github.io/Portfolio-Data-Analytics/)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:abhishekagp0489@gmail.com)
-  
-</div>
-
-## About Me
-
-BCA graduate (2026), MCA student (IGNOU, distance). Results-driven Data Analyst with hands-on expertise in SQL, Python, Linux, and Docker. I transform complex, messy datasets into clean, business-focused insights that drive decisions. Proven ability to build reproducible analysis, craft professional visualizations, and write clear documentation that recruiters can instantly understand.
-
-- 🔍 **Analytical Mindset:** Detail-oriented with strong problem-solving skills
-- 🛠️ **Practical Experience:** Real projects with clean SQL, EDA, and visual storytelling
-- 💡 **Business-Focused:** Focus on KPIs, trends, and actionable takeaways
-- 🚀 **Job-Ready:** Reproducible portfolio built for entry-level Data Analyst roles
-
-## 🛠️ Technical Skills
+# Abhishek Gupta — Cybersecurity Analyst (SOC Track) · Linux · Docker · Python
 
 <div align="center">
 
-| Category | Skills |
-|---|---|
-| **Languages** | Python, SQL, Bash |
-| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Databases** | SQLite, SQL Server (concepts) |
-| **Visualization** | Power BI, Tableau, Jupyter |
-| **DevOps/Infra** | Linux, Docker, Git, GitHub Actions |
-| **Web/Tools** | Flask, Streamlit, REST APIs, Postman, Jira |
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F59E0B&center=true&vCenter=true&width=620&lines=Cybersecurity+Analyst+(SOC+Track)+%C2%B7+Linux+%C2%B7+Docker+%C2%B7+Python;I+find+what+breaks%2C+fix+it%2C+measure+it%2C+make+it+stay+fixed.;TCS+HackQuest+S10+%C2%B7+Round+2+Qualifier+%C2%B7+Cisco+Security+Infra+%C2%B7+IJCMA+2025)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-gupta-30b3a4298/)
+[![Portfolio](https://img.shields.io/badge/CyberOS-Interactive_OS-F59E0B?style=flat-square&logo=vercel)](https://abhishekgupta.qzz.io)
+[![One-Pager](https://img.shields.io/badge/Portfolio-Recruiter_View-22D3EE?style=flat-square&logo=netlify)](https://abhishekguptaportfolio6.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=flat-square&logo=gmail)](mailto:abhishekagp0489@gmail.com)
 
 </div>
 
-## 💼 Featured Portfolio Projects
+## About me
 
-<div align="center">
+BCA graduate (2026), MCA student (IGNOU, distance). I work hands-on with computers — the OS, the network, the hardware underneath — and I am building a **cybersecurity career** starting in security operations (SOC), growing into **cloud and AI/LLM security**.
 
-| Project | Description | Tech | Highlights | Link |
-|---|---|---|---|---|
-| **1. COVID-19 Data Exploration** | Global COVID-19 analysis using SQL Window Functions, CTEs & Joins | `SQL` `SQLite` `Python` | Rolling vaccinations, infection/death rates, global KPIs | [🔗 View](https://github.com/agp-369/Portfolio-Data-Analytics/tree/main/project-1-covid-sql-exploration) |
-| **2. Nashville Housing Data Cleaning** | End-to-end data cleaning with full audit trail | `SQL` `SQLite` `Python` | Address parsing, deduplication, NULL backfill, 56K+ records | [🔗 View](https://github.com/agp-369/Portfolio-Data-Analytics/tree/main/project-2-nashville-housing-cleaning) |
-| **3. TMDB Movies EDA** | Deep exploratory analysis with stunning visualizations | `Python` `Pandas` `Seaborn` `Matplotlib` | Budget–Revenue correlation (r≈0.73), genre trends, runtime insights | [🔗 View](https://github.com/agp-369/Portfolio-Data-Analytics/tree/main/project-3-movies-data-analysis) |
-| **4. Global YouTube Statistics** | Dashboard-ready SQL analysis of top creators | `SQL` `SQLite` `Python` | 995 channels, 22.9B subs, 11T views, country/category KPIs | [🔗 View](https://github.com/agp-369/Portfolio-Data-Analytics/tree/main/project-4-youtube-dashboard) |
-| **5. CVE Severity Intelligence** | NVD API + ML severity classifier + Streamlit + Docker | `Python` `scikit-learn` `Streamlit` `Docker` | 500 CVEs, RF classifier, live prediction dashboard | [🔗 View](https://github.com/agp-369/Portfolio-Data-Analytics/tree/main/project-5-cve-ml-docker) |
+- 🔍 **Find → fix → measure → stay fixed.** That's the whole job I want.
+- 🛠️ **Systems depth is my edge:** 10+ Linux distros on real/stubborn hardware, Docker, bash/cron, hardware repair (HP NC6400), networking.
+- 🛡️ **Security proof:** TCS HackQuest S10 Round 2 Qualifier · Cisco Designing Security Infrastructure badge · OWASP Juice Shop & DVWA in Docker · home Wazuh SIEM (building).
+- 📄 **Peer-reviewed research:** co-author, *Real-Time Transaction Fraud Detection Using Adaptive Hoeffding Trees* (IJCMA, 2025) — framed as security-anomaly thinking, not ML career.
+- 🎯 **Open to:** SOC L1 / Junior Security Analyst / Security Analyst Trainee / IT Security Support (BFSI, GCC, product SOCs).
 
-</div>
+## Proof pillars (pinned repos)
 
-## 📊 GitHub Analytics
+| Pillar | Question | Best proof |
+|---|---|---|
+| **OPERATE** | Can you run infra? | `CyberOS` · `My-Portfolio-page` · 10+ distros · hardware repair story |
+| **MEASURE** | Do you know it works? | `signoz-weatherwatch-bot` (OpenTelemetry + Redis + Docker, full traces) |
+| **SECURE** | Do you think in failure? | `infra-security-agent-workflow` (Meta OpenEnv RL SOC sandbox) · `pitguard-ai` (telemetry anomaly detection) · `security-labs` (building) |
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agp-369&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agp-369&layout=compact&theme=github_dark&hide_border=true)
-  
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=agp-369&theme=github-dark-blue&hide_border=true)
-  
-</div>
+## Pinned projects
 
-## 🎯 What I Bring to Your Team
+- 🛡️ **[security-labs](https://github.com/agp-369/security-labs)** — OWASP Juice Shop + DVWA writeups (find → explain → fix), CIS hardening on 10+ distros, PortSwigger/TryHackMe lab log. *(building)*
+- 📊 **[signoz-weatherwatch-bot](https://github.com/agp-369/signoz-weatherwatch-bot)** — Telegram weather bot with full SigNoz observability: OpenTelemetry traces, custom metrics, Redis cache, circuit breaker, Docker.
+- 🤖 **[infra-security-agent-workflow](https://github.com/agp-369/infra-security-agent-workflow)** — RL environment for training autonomous SOC analysts (Meta OpenEnv Hackathon, Round 1 submitted). Prototype — honest status.
+- 🖥️ **[CyberOS](https://github.com/agp-369/CyberOS)** — my portfolio *is* an operating system. Next.js 16 + React 19 + Tailwind v4 + Three.js. Boot → login → desktop.
+- 🔎 **[pitguard-ai](https://github.com/agp-369/pitguard-ai)** — F1 telemetry anomaly detection (sensor spoofing, CAN-bus injection) with IBM Granite. Anomaly-detection framing, not hype.
+- 🏥 **[Rakshak-AI](https://github.com/agp-369/Rakshak-AI)** — offline, on-device medical triage (Gemma 4, Flutter). No patient data leaves the phone — AI meets privacy.
 
-- **Data Accuracy:** Rigorous cleaning & validation before analysis
-- **Clear Storytelling:** Insights explained with visuals + plain English
-- **SQL Proficiency:** Joins, CTEs, Window Functions, Aggregations
-- **Python Expertise:** Automation, EDA, reproducible notebooks
-- **Infrastructure Awareness:** Linux, Docker, Git workflows
-- **Recruiter-Friendly:** Clean repos, READMEs, and exportable artifacts
+## Tech stack
 
-## 📫 Get In Touch
+**Systems:** Linux (Ubuntu, Kali, Debian, Fedora, AntiX, Q4OS), Bash, SSH, ufw, systemd, Docker, Git
+**Security:** OWASP Top 10 · Web exploitation (CTF) · OSINT · Vulnerability testing · Cisco Security Infrastructure · Wazuh (building) · OWASP LLM Top 10 (building)
+**Scripting/Data (as tools):** Python, SQL, Pandas, Flask, Streamlit
+**Cloud (building):** AWS (IAM, VPC, EC2, S3, GuardDuty, Security Hub)
+**Web:** Next.js, React, TypeScript, Tailwind
 
-<div align="center">
+## Career ladder (locked)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishekgupta-agp/)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail)](mailto:abhishekagp0489@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_Now-2ea44f?style=for-the-badge&logo=github)](https://github.com/agp-369/Portfolio-Data-Analytics)
+`SOC L1` → `SOC L2 / Security Analyst` → `Security Engineer / Cloud Security` → `Cloud & AI/LLM Security` → `Security Architect / DFIR / GRC` → **own practice (Year 4-5)**
 
-</div>
+- Sector focus: **BFSI first** (banks, fintech, payments, RBI/PCI-DSS, GCCs), healthcare as angle.
+- Rule: floor first, one step every 12-18 months, public proof forever.
 
-*"Data tells a story. I help turn that story into smart business decisions."*
+## Currently
 
-</div>
+- 📚 Professor Messer Security+ (free) → CompTIA Security+ / eJPT
+- 🏗️ Home SOC: Wazuh SIEM + one agent + one alert + mini-incident runbook
+- 🧪 `llm-security-labs`: prompt injection, RAG poisoning, guardrail eval (OWASP LLM Top 10)
+- ✍️ 3-5 security/systems applications every day
+
+## Community & learning
+
+- null — The Open Security Community (India) · TryHackMe · PortSwigger Web Security Academy · r/blueteamsec
+- Faceless channel: **The Ghost's Log** (YouTube) — defensive security, learn-in-public.
+
+## Contact
+
+- 📧 abhishekagp0489@gmail.com
+- 💼 [linkedin.com/in/abhishek-gupta-30b3a4298](https://www.linkedin.com/in/abhishek-gupta-30b3a4298/)
+- 🌐 [CyberOS — interactive OS portfolio](https://abhishekgupta.qzz.io) · [recruiter one-pager](https://abhishekguptaportfolio6.netlify.app)
+
+> "I find what breaks, fix it, measure it, and make sure it stays fixed."
+
+---
+
+*Note: I previously maintained a "Data Analyst" profile. That career is retired — SQL/Python stay as tools inside systems/security work. AI/ML stays as an applied tool, never a career lane.*
